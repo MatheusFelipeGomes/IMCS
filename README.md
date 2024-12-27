@@ -1,6 +1,6 @@
 # Arquitetura Geral
 
-O projeto pode utilizar uma arquitetura como **MVC (Model-View-Controller)** ou **Clean Architecture** para organizar melhor as responsabilidades.
+O projeto utiliza a arquitetura **MVC (Model-View-Controller)**
 
 ### Camadas Comuns:
 
